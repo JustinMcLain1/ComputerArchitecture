@@ -1,9 +1,15 @@
 //******************************************************************
 //
-// Assignment 2
+// CSCI 463 Assignment 2
 //
 // Author: Justin McLain
-//*******************************************************************
+// ZID: z1910087
+// Course: CSCI463
+//
+//  I certify that this is my own work and where appropriate an extension
+//  of the starter code provided for the assignment.
+//
+//******************************************************************
 
 #include <iostream>
 #include <iomanip>
